@@ -2,6 +2,7 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 👋 Hey there! I'm Benard, an IT Manager on a thrilling journey towards the realm of cybersecurity. Based in the vibrant tech landscape of Kenya, I've spent years harnessing the power of technology to solve complex problems and enhance operational efficiencies. My passion for tech knows no bounds.
+
 🔍 As I pivot towards cybersecurity, my goal is to blend my robust IT background with the dynamic and ever-evolving challenges of securing digital assets and infrastructures. I believe in the power of continuous learning and innovation to protect against the cyber threats of tomorrow.
 
 💡 I'm fascinated by all things tech. Whether it's discussing the latest trends, exploring new tools, or sharing insights on cybersecurity best practices, I'm always eager to connect with fellow tech enthusiasts and learn from the community.
