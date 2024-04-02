@@ -62,8 +62,6 @@ IT Manager transitioning to cybersecurity, aiming to leverage extensive experien
 <img src="https://img.shields.io/badge/-(ISC)%C2%B2%20Certified%20in%20Cyber%20Security-006400?&style=for-the-badge&logo=placeholder&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cybrary%20Security%2B%20Complete%20Course%20Certificate-008080?&style=for-the-badge&logo=Security&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
