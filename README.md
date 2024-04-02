@@ -36,7 +36,7 @@ IT Manager transitioning to cybersecurity, aiming to leverage extensive experien
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-2C2D72?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
 ### Endpoint
