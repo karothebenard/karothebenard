@@ -53,7 +53,6 @@ IT Manager transitioning to cybersecurity, aiming to leverage extensive experien
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Udemy%20Security%2B%20Complete%20Course%20Certificate-EA5252?&style=for-the-badge&logo=Udemy&logoColor=white" />
@@ -61,7 +60,6 @@ IT Manager transitioning to cybersecurity, aiming to leverage extensive experien
 <img src="https://img.shields.io/badge/-Google%20Cyber%20Security%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-(ISC)%C2%B2%20Certified%20in%20Cyber%20Security-006400?&style=for-the-badge&logo=placeholder&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cybrary%20Security%2B%20Complete%20Course%20Certificate-008080?&style=for-the-badge&logo=Security&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
