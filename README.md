@@ -51,6 +51,7 @@ IT Manager transitioning to cybersecurity, aiming to leverage extensive experien
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh%20SIEM-003366?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-4B5E40?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ## Certifications
