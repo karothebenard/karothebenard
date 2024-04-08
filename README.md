@@ -18,7 +18,7 @@ Feel free to reach out to me for tech chats, collaborations, or just to share in
 IT Manager transitioning to cybersecurity, aiming to leverage extensive experience in technology management and a profound passion for cybersecurity to protect digital assets and ensure data integrity. Eager to apply my strong analytical skills, technical expertise, and a keen interest in emerging security threats to a dynamic and innovative cybersecurity role. Committed to continuous learning and staying at the forefront of technology trends, I seek a position where I can contribute to developing robust security frameworks and strategies, mentor teams, and drive awareness on cybersecurity best practices.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
