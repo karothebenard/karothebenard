@@ -63,6 +63,6 @@ IT Manager transitioning to cybersecurity, aiming to leverage extensive experien
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SOC Lab (Splunk installation & walk through)
+  
 
