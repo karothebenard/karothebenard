@@ -23,7 +23,7 @@ IT Manager transitioning to cybersecurity, aiming to leverage extensive experien
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/karothebenard/SIEM/blob/main/README.md">SIEM</a>|
-| NESSUS Implementation                         | <a href="https://github.com/karothebenard/Nessus_Implimentation/blob/main/README.md">SIEM</a>|
+| NESSUS Implementation                         | <a href="https://github.com/karothebenard/Nessus_Implimentation/blob/main/README.md">NESSUS</a>|
 
 
 
