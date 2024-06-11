@@ -23,6 +23,9 @@ IT Manager transitioning to cybersecurity, aiming to leverage extensive experien
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/karothebenard/SIEM/blob/main/README.md">SIEM</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/karothebenard/SIEM/blob/main/README.md">SIEM</a>|
+
+
 
 
 ## Tools
