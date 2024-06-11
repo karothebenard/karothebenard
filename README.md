@@ -34,7 +34,7 @@ IT Manager transitioning to cybersecurity, aiming to leverage extensive experien
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-2C2D72?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-2C2D72?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-43A5BE?&style=for-the-badge&logo=Nessus&logoColor=white" />
 </div>
 
 ### Endpoint
